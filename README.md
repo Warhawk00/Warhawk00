@@ -22,11 +22,6 @@
 
 ![Skills](https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github)
 
-## 📊 GitHub Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=Warhawk00&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Warhawk00)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warhawk00&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Warhawk00)
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
